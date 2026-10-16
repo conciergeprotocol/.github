@@ -6,6 +6,6 @@ A company publishes one text file, `agent.txt`, at the root of its domain. A vis
 
 - [Read the spec](https://conciergeprotocol.org/spec), version 1.0 Draft
 - [Introducing CAP](https://conciergeprotocol.org/introducing)
-- [Source, reference server, and examples](https://github.com/conciergeprotocol/spec)
+- [Source, reference server, and examples](https://github.com/conciergeprotocol/cap)
 
-Feedback is welcome in [issues](https://github.com/conciergeprotocol/spec/issues).
+Feedback is welcome in [issues](https://github.com/conciergeprotocol/cap/issues).
