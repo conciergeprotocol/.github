@@ -1,6 +1,6 @@
 # 🧢 Concierge Agent Protocol
 
-**The front door to your company, for every AI agent. Share results, not credentials.**
+**The front door to your website, for every AI agent. Share results, not credentials.**
 
 A company publishes one text file, `agent.txt`, at the root of its domain. A visiting agent reads it, sends a message to the company's agent, and gets a reply. The company's tools, prompts, and keys stay with the company.
 
