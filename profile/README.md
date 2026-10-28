@@ -1,4 +1,4 @@
-# 🧢 Concierge Agent Protocol
+# Concierge Agent Protocol
 
 **The front door to your website, for every AI agent. Share results, not credentials.**
 
